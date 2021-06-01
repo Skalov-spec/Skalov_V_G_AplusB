@@ -1,0 +1,16 @@
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\навчання\донну\програм\Я\2 с\якась робоат\А+В\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
